@@ -1,0 +1,3 @@
+# TS Utils
+
+A repository of copy-and-paste ready utility functions for Typescript. These functions are designed to be dependency free and minimal. This is especially useful on the client-side, where libraries like `lodash` and even `underscore` are both *too heavy* and *insufficient*. Developers should be more deliberate about the code they force users to download. Instead of including huge libraries and using 1% of its functionality, pick and choose what you need.
